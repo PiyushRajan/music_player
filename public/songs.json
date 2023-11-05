@@ -1,0 +1,32 @@
+{
+    "songs": [
+        {
+            "id": 1,
+            "title": "BenSound_Buddy",
+            "artist": "BenSound",
+            "img_src": "/public/Images/buddy.jpeg",
+            "src": "/public/Songs/bensound-buddy.mp3"
+        },
+        {
+            "id": 2,
+           "title": "BenSound_Energy",
+            "artist": "BenSound",
+            "img_src": "/public/Images/energy.jpeg",
+            "src": "/public/Songs/bensound-energy.mp3"
+        },
+        {
+            "id": 3,
+           "title": "BenSound_SlowMotion",
+            "artist": "BenSound",
+            "img_src": "/public/Images/slowmotion.jpeg",
+            "src": "/public/Songs/bensound-slowmotion.mp3"
+        },
+        {
+            "id": 4,
+            "title": "BenSound_Sunny",
+            "artist": "BenSound",
+            "img_src": "/public/Images/sunny.jpeg",
+            "src": "/public/Songs/bensound-sunny.mp3"
+        }
+    ]
+}
